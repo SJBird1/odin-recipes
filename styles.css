@@ -1,0 +1,34 @@
+body {
+    font-family:
+    Helvetica, Verdana, sans-serif ;
+    background-color: ghostwhite;
+    color:#454545
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    background-color: #ff506a;
+}
+
+h2{
+    opacity: 0.8;
+}
+
+a {
+    color: #454545
+}
+
+#welcome_message  {
+    font-style:italic;
+}
+
+.veg{
+    color:green;
+}
+
+ul ul {
+    font-size: 0.85em;
+}
