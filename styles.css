@@ -63,3 +63,19 @@ ul ul {
     background-color: #f6b3b3;
     outline: solid;
 }
+
+.feature_text {
+    display: inline-block;
+}
+
+.feature_text h3 {
+    margin:0px 20px
+}
+
+.feature_text p {
+    margin: 5px 20px
+}
+
+img.top_image {
+    vertical-align: top;
+}
