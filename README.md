@@ -1,4 +1,4 @@
 # odin-recipes
-First projection from the odin project
+First project from 'The Odin Project'
 
 This is the first projectfrom the odin project cirriculum. 
