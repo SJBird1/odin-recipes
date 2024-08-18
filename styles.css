@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+
 body {
     font-family:
     Helvetica, Verdana, sans-serif ;
@@ -31,4 +36,30 @@ a {
 
 ul ul {
     font-size: 0.85em;
+}
+
+.navbar {
+    background-color: crimson;
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+}
+
+.navlink {
+    margin:0px;
+    width:30%;
+    color: #fff;
+    background-color: transparent;
+    font-weight: bold;
+    height: 40px;
+    font-size: 1em;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+    ;
+}
+
+.navlink:focus, .navlink:hover {
+    background-color: #f6b3b3;
+    outline: solid;
 }
